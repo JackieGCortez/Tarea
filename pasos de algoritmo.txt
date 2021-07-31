@@ -1,4 +1,24 @@
+
+                                          
+
 Pasos para crear un Algoritmo
 
-1 Entrar a GiHub
-2 crear un Repositoy
+1 Acceder a GiHub
+2 Seleccionar pestana y crear un Repositoy
+3 Asignarke nombre y una descripcion (Opcional)
+4 Asignar si desea que el Repository sea publico o privado
+5 Dar CLICK en pestana Crear
+
+Clonar Repository
+
+1. Ingresar a GitHub Desktop
+2. Seleccionar la pestana ADD
+3. Copiar el URL de la web y copiar en GITHUB desktop.
+4. Clonar
+5. Ingresar a la carpeta de windows/Github y crear un block de nota.
+6. Generar una actualizacion a la web y seleccionar commit to main.
+
+
+Estudiante: Jacquelinne Garcia
+Ficha: 1496042021
+Carrera: Ing. Sistemas y Computacion. 
