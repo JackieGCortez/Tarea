@@ -1,1 +1,4 @@
-Tarea 1
+Pasos para crear un Algoritmo
+
+1 Entrar a GiHub
+2 crear un Repositoy
